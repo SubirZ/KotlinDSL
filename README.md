@@ -1,5 +1,5 @@
 # KotlinDSL
-This Repo demonstrates the use of Kotlin DSl to makes your code more easily readable.
+This Repo demonstrates the use of Kotlin DSL to makes your code more easily readable.
 DSL make the code easily readable not only for developers but for any non technical person.
 
 ## Getting Started
