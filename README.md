@@ -6,6 +6,6 @@ DSL make the code easily readable not only for developers but for any non techni
 
 This project is a starting point for creating your own Kotlin DSL.
 
-- 1. we have two data class Person and Address in PersonModel to store our data.
-- 2. we have PersonDsl for creating our own very first Kotlin Dsl.
-- 3. We have MainActivity where we will see our DSl in action.
+1. we have two data class Person and Address in PersonModel to store our data.
+2. we have PersonDsl for creating our own very first Kotlin Dsl.
+3. We have MainActivity where we will see our DSl in action.
